@@ -1,0 +1,174 @@
+# Paste into Chrome Web Store → Store listing → Description
+# for each language after uploading a package that includes _locales/.
+# Do NOT paste the "=== ..." headers into the store.
+
+================================================================================
+English (en)
+================================================================================
+
+🎬 Global hotkeys for YouTube & Bilibili picture-in-picture: toggle, pause/play, and skip back/forward.
+
+━━━━━━━━━━━━━━━━━━━━
+
+❓ The problem
+
+Following a tutorial or guide while working in another app? You often need to pause—but that means switching to the browser, pressing pause, then switching back. That breaks your flow.
+
+✨ The solution
+
+PiP Controller lets you control Picture-in-Picture and playback on YouTube and bilibili with global keyboard shortcuts—without bringing the browser to the foreground.
+
+🖥️ One monitor — Keep the PiP window on the side while you stay in your app; use hotkeys to control the video.
+
+🖥️🖥️ Two monitors — Move or enlarge PiP on your second screen; hotkeys still work in the background.
+
+━━━━━━━━━━━━━━━━━━━━
+
+⌨️ What you can do
+
+• Alt+W — Toggle Picture-in-Picture (open / close)
+• Alt+A / Alt+D — Seek backward / forward (step size configurable in the popup; default 5 seconds)
+• Alt+S — Pause / play
+
+👍 Good for: learning from tutorials while practicing, following game guides while playing, or any time the video keeps playing but your focus is in another app.
+
+━━━━━━━━━━━━━━━━━━━━
+
+⚠️ Setup (important)
+
+1. Open chrome://extensions/shortcuts
+2. Find PiP Controller and set all four commands to Global (otherwise shortcuts won’t work when another app is focused)
+3. Seek forward may show as “Not set”: Chrome reserves Alt+D for the address bar—click the pencil icon to bind it manually (or choose another shortcut)
+4. Open a video on YouTube or bilibili, leave that tab open, then switch to your other app
+
+💡 Click the extension icon for in-popup help, UI language (Chinese / Japanese / English), and seek-step settings.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🌐 Supported sites
+
+• YouTube (youtube.com)
+• bilibili (bilibili.com)
+
+📂 Open source
+
+Source, feedback, and updates:
+https://github.com/jotenbai/picture-in-picture-controller
+
+🔒 Privacy
+
+Settings (language, seek step) stay local. No personal data is uploaded to the developer’s servers. Permissions are only used to inject control scripts on the sites above and remember which tab has the active video.
+
+================================================================================
+中文（zh_CN）
+================================================================================
+
+🎬 用全局快捷键控制 YouTube / Bilibili 画中画：弹出/关闭、暂停/播放、快进/快退。
+
+━━━━━━━━━━━━━━━━━━━━
+
+❓ 痛点
+
+边看教程或攻略、边在别的软件里操作时，视频常常要暂停——却得先切回浏览器按暂停，再切回来，节奏一下就被打断。
+
+✨ 解决方案
+
+画中画控制器（PiP Controller）用全局快捷键，在 YouTube、bilibili 上控制画中画和播放——不必把浏览器切到前台。
+
+🖥️ 一块屏幕 — 画中画小窗叠在边上，手继续操作当前软件，用快捷键控制视频。
+
+🖥️🖥️ 两块屏幕 — 可以把画中画放大放到副屏；快捷键仍在后台生效。
+
+━━━━━━━━━━━━━━━━━━━━
+
+⌨️ 你能做什么
+
+• Alt+W — 切换画中画（打开 / 关闭）
+• Alt+A / Alt+D — 快退 / 快进（秒数可在扩展弹窗里改，默认 5 秒）
+• Alt+S — 暂停 / 播放
+
+👍 适合：边学教程边操作、边查攻略边玩游戏，以及任何「视频在播、人却在别的软件里」的场景。
+
+━━━━━━━━━━━━━━━━━━━━
+
+⚠️ 使用前请设置（很重要）
+
+1. 打开 chrome://extensions/shortcuts
+2. 找到本扩展，把 4 条命令的生效范围都改成「全局」（否则切到别的应用后快捷键无效）
+3. 「快进」可能显示「未设置」：Chrome 默认占用 Alt+D 聚焦地址栏，请点铅笔图标手动绑定（或改成别的组合键）
+4. 在 YouTube 或 bilibili 打开视频页并保持该标签，再切换到其他应用即可使用
+
+💡 点击工具栏上的扩展图标，可查看说明、切换中/日/英文界面、调整快进/快退秒数。
+
+━━━━━━━━━━━━━━━━━━━━
+
+🌐 支持网站
+
+• YouTube（youtube.com）
+• bilibili（bilibili.com）
+
+📂 开源
+
+源码、问题反馈与更新说明：
+https://github.com/jotenbai/picture-in-picture-controller
+
+🔒 隐私说明
+
+设置（语言、快进秒数）仅保存在本地，不会上传到开发者服务器。权限仅用于在上述网站注入控制脚本，并记住当前视频所在标签页。
+
+================================================================================
+日本語（ja）
+================================================================================
+
+🎬 YouTube / bilibili のピクチャインピクチャをグローバルショートカットで操作：切替、一時停止/再生、早送り/巻き戻し。
+
+━━━━━━━━━━━━━━━━━━━━
+
+❓ こんな悩みありませんか
+
+チュートリアルや攻略を見ながら別アプリで作業していると、一時停止のたびにブラウザへ切り替えて戻る必要があり、作業の流れが途切れます。
+
+✨ 解決策
+
+PiP コントローラーなら、YouTube / bilibili のピクチャインピクチャと再生をグローバルショートカットで操作できます。ブラウザを前面に出す必要はありません。
+
+🖥️ 1画面 — PiP を端に置き、作業中のアプリに集中したままショートカットで操作。
+
+🖥️🖥️ 2画面 — サブディスプレイに PiP を大きく表示しても、ショートカットはバックグラウンドで有効です。
+
+━━━━━━━━━━━━━━━━━━━━
+
+⌨️ できること
+
+• Alt+W — PiP の切り替え（開く / 閉じる）
+• Alt+A / Alt+D — 巻き戻し / 早送り（秒数はポップアップで変更可・初期値 5 秒）
+• Alt+S — 一時停止 / 再生
+
+👍 向いている場面：チュートリアルを見ながら練習する、攻略を見ながらゲームする、動画は再生したまま別アプリに集中したいとき。
+
+━━━━━━━━━━━━━━━━━━━━
+
+⚠️ 初回設定（重要）
+
+1. chrome://extensions/shortcuts を開く
+2. 本拡張の 4 つのコマンドをすべて「グローバル」にする（別アプリ前面時にも必要）
+3. 「早送り」が「未設定」の場合：Chrome は Alt+D をアドレスバー用に予約しています。鉛筆アイコンから手動で割り当てるか、別のキーにしてください
+4. YouTube または bilibili で動画タブを開いたまま、他のアプリに切り替えて使います
+
+💡 ツールバーの拡張アイコンから、使い方・言語（中/日/英）・秒数設定を変更できます。
+
+━━━━━━━━━━━━━━━━━━━━
+
+🌐 対応サイト
+
+• YouTube（youtube.com）
+• bilibili（bilibili.com）
+
+📂 オープンソース
+
+ソース・フィードバック・更新情報：
+https://github.com/jotenbai/picture-in-picture-controller
+
+🔒 プライバシー
+
+言語や秒数などの設定は端末内に保存され、開発者のサーバーへ個人データを送信しません。権限は上記サイトへの制御スクリプト注入と、再生中タブの記憶のみに使用します。

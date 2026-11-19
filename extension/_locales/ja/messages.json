@@ -1,0 +1,34 @@
+{
+  "extName": {
+    "message": "PiP コントローラー",
+    "description": "Extension name shown in Chrome and the Web Store"
+  },
+  "extDescription": {
+    "message": "YouTube / bilibili / Douyin のピクチャインピクチャをグローバルショートカットで操作：切替、一時停止/再生、早送り/巻き戻し。",
+    "description": "Short description (max 132 characters)"
+  },
+  "actionTitle": {
+    "message": "PiP コントローラー",
+    "description": "Toolbar button tooltip"
+  },
+  "cmdTogglePip": {
+    "message": "PiP の切り替え（開く / 閉じる）",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekBack": {
+    "message": "巻き戻し",
+    "description": "Keyboard command description"
+  },
+  "cmdTogglePlay": {
+    "message": "一時停止 / 再生",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekForward": {
+    "message": "早送り",
+    "description": "Keyboard command description"
+  },
+  "cmdNextVideo": {
+    "message": "次の動画（Douyin）",
+    "description": "Keyboard command description"
+  }
+}

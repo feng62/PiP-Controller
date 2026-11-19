@@ -1,0 +1,18 @@
+===== Chrome Web Store permission justifications (paste per field) =====
+Remote code: select 「不，我并未使用远程代码」.
+All JavaScript used by this extension is included in the ZIP. It does not download or execute remotely hosted code.
+If the form is already 「是」, change it to 「否」 before submit.
+
+===== 中文粘贴版（控制台是中文时用下面各段） =====
+
+----- scripting -----
+在用户按下快捷键时，向已打开的 YouTube / bilibili 标签页注入扩展自带的脚本（bridge.js、pip-toggle.js），以实现画中画切换与播放控制。仅在用户主动使用快捷键或需要重试注入时使用，不用于与单一用途无关的功能。
+
+----- tabs -----
+用于在多个浏览器标签页中识别当前正在播放 YouTube / bilibili 视频的标签（例如可听、观看页 URL），以便将快捷键命令发送到正确的标签页。扩展不会将视频标签强制切到前台，仅查询标签状态并发送消息。
+
+----- storage -----
+使用 chrome.storage.sync 在本地保存用户可选设置：界面语言（中/日/英）、快进/快退秒数。数据用于恢复用户偏好，不用于广告或用户画像，不出售给第三方。
+
+----- 主机权限 -----
+扩展仅请求访问 *.youtube.com 与 *.bilibili.com，用于在上述网站的视频页面中：查找正在播放的 video 元素、切换画中画、控制播放进度与暂停。不向其他网站注入脚本，也不读取与视频控制无关的页面数据。

@@ -1,0 +1,34 @@
+{
+  "extName": {
+    "message": "PiP Controller",
+    "description": "Extension name shown in Chrome and the Web Store"
+  },
+  "extDescription": {
+    "message": "Global hotkeys for YouTube, Bilibili & Douyin picture-in-picture: toggle, pause/play, and skip back/forward.",
+    "description": "Short description (max 132 characters)"
+  },
+  "actionTitle": {
+    "message": "PiP Controller",
+    "description": "Toolbar button tooltip"
+  },
+  "cmdTogglePip": {
+    "message": "Toggle picture-in-picture (open / close)",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekBack": {
+    "message": "Seek backward",
+    "description": "Keyboard command description"
+  },
+  "cmdTogglePlay": {
+    "message": "Pause / play",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekForward": {
+    "message": "Seek forward",
+    "description": "Keyboard command description"
+  },
+  "cmdNextVideo": {
+    "message": "Next video (Douyin)",
+    "description": "Keyboard command description"
+  }
+}

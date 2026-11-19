@@ -1,0 +1,34 @@
+{
+  "extName": {
+    "message": "画中画控制器 (PiP Controller)",
+    "description": "Extension name shown in Chrome and the Web Store"
+  },
+  "extDescription": {
+    "message": "用全局快捷键控制 YouTube / Bilibili / 抖音 画中画：弹出/关闭、暂停/播放、快进/快退。",
+    "description": "Short description (max 132 characters)"
+  },
+  "actionTitle": {
+    "message": "画中画控制器",
+    "description": "Toolbar button tooltip"
+  },
+  "cmdTogglePip": {
+    "message": "切换画中画（弹出/关闭）",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekBack": {
+    "message": "快退",
+    "description": "Keyboard command description"
+  },
+  "cmdTogglePlay": {
+    "message": "暂停 / 播放",
+    "description": "Keyboard command description"
+  },
+  "cmdSeekForward": {
+    "message": "快进",
+    "description": "Keyboard command description"
+  },
+  "cmdNextVideo": {
+    "message": "下一个视频（抖音下滑）",
+    "description": "Keyboard command description"
+  }
+}
